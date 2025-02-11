@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "2d45aeee100995d792fab499c9ce464e323c329a4eb32ffcc0870d20e99696e5"
+build_start_time: [1739127640, 816598000]
+build_end_time: [1739127643, 831665000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/VEML6070/VEML6070.swift": [1739127509, 212833938]

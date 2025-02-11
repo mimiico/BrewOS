@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "6d0e18b2de577b68e01bbd2f917ea45b53bcb2e460b48a626b09f2596122464b"
+build_start_time: [1739127637, 469372000]
+build_end_time: [1739127640, 504742000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MCP9808/MCP9808.swift": [1739127509, 209942446]

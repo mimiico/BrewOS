@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "e003365885d2aec1fce821726673c14cbf6039733d926435c46e2bc4b2ac4a89"
+build_start_time: [1739127651, 135505000]
+build_end_time: [1739127654, 16684000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ADXL345/ADXL345.swift": [1739127509, 204825459]

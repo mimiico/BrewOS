@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "ed57cdec4a9a061212ae579c24aa5d92b4f50f0feec78fe88ae7740a0a200724"
+build_start_time: [1739127637, 443466000]
+build_end_time: [1739127640, 996697000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/LIS3DH/LIS3DH.swift": [1739127509, 208937948]

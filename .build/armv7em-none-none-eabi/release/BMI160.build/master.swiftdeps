@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "f0b967cdcc958824ccbcdcdc991ece5607a9c3f5b956bfcd5bbe052cb382f48f"
+build_start_time: [1739127637, 459150000]
+build_end_time: [1739127640, 827367000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/BMI160/BMI160.swift": [1739127509, 205944956]

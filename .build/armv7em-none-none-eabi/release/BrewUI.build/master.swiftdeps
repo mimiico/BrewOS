@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "547afbebb86bec5e23b598b42e839a15d3489f73f35442f5be61922575b907ef"
+build_start_time: [1739127654, 714967000]
+build_end_time: [1739127657, 70409000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/BrewUI/Sources/BrewUI/BrewUI.swift": [1739127509, 361248783]

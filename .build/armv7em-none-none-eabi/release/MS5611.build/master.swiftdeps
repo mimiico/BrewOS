@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "15c61118d99637fc023ca4e15f3d177fecc8ddb1fe766944351dd9d2c4d7ef05"
+build_start_time: [1739127645, 102339000]
+build_end_time: [1739127648, 807900000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MS5611/MS5611.swift": [1739127509, 210885068]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "f14ab0ca5d13f897f0ed11d6dbe61112f038e8c47fea4115ab38bc035ec1c2aa"
+build_start_time: [1739127640, 573902000]
+build_end_time: [1739127644, 820668000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/VL53L0x/VL53L0x.swift": [1739127509, 213103979]

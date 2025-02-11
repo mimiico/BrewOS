@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "fbeb654210e283aa4128851a6507c8b5b8e6758ccf3d84faad005437ded8c58d"
+build_start_time: [1739127637, 438361000]
+build_end_time: [1739127641, 799076000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/BMP280/BMP280.swift": [1739127509, 206167664]

@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/armv7em-none-none-eabi/release/BrewOS.build/BrewOS.d",
+    "object": "/Users/yuhaochen/Developer/BrewOS/.build/armv7em-none-none-eabi/release/BrewOS.build/BrewOS.o",
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/armv7em-none-none-eabi/release/BrewOS.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/BrewOS/Sources/main.swift": {
+    "object": "/Users/yuhaochen/Developer/BrewOS/.build/armv7em-none-none-eabi/release/BrewOS.build/main.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/BrewOS/.build/armv7em-none-none-eabi/release/BrewOS.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/armv7em-none-none-eabi/release/BrewOS.build/main.swiftdeps"
+  }
+}

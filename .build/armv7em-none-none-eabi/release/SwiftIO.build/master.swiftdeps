@@ -1,0 +1,23 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "8b4af25745bfaf6f6bfbe1751ce54512f4d023fd49a5b7487a6ebab983c6a634"
+build_start_time: [1739127631, 724978000]
+build_end_time: [1739127637, 213881000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/AnalogIn.swift": [1739127509, 456069068]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/BoardId.swift": [1739127509, 456179442]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/Counter.swift": [1739127509, 457271606]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/DigitalIn.swift": [1739127509, 457387939]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/DigitalInOut.swift": [1739127509, 457581230]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/DigitalOut.swift": [1739127509, 457947312]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/Errno.swift": [1739127509, 458095895]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/Ethernet.swift": [1739127509, 458231103]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/FileDescriptor.swift": [1739127509, 458342520]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/I2C.swift": [1739127509, 458561852]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/I2S.swift": [1739127509, 458776852]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/KernelTiming.swift": [1739127509, 458860685]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/PWMOut.swift": [1739127509, 458968893]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/SPI.swift": [1739127509, 459072518]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/Thread.swift": [1739127509, 462171217]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/Timer.swift": [1739127509, 462278926]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/UART.swift": [1739127509, 462397550]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/SwiftIO/Sources/SwiftIO/Utils.swift": [1739127509, 462489883]

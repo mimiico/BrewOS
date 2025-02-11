@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "5d2742241d659487e4db40f0253e9a65b9ae3eb008e42c8a72271c15043b6850"
+build_start_time: [1739127637, 471186000]
+build_end_time: [1739127640, 653639000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MCP4725/MCP4725.swift": [1739127509, 209808821]

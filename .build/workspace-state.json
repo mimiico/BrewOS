@@ -1,0 +1,95 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "brewui",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/HomebrewLab/BrewUI",
+          "name" : "BrewUI"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "81369eb3c59904c793ff0bc5c1a99bbd145fc10a"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "BrewUI"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "cfreetype",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/madmachineio/CFreeType",
+          "name" : "CFreeType"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "169a741f0e452bf29be2346d321a52da4fb9a0da",
+            "version" : "2.13.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "CFreeType"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "madboards",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/madmachineio/MadBoards.git",
+          "name" : "MadBoards"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "develop",
+            "revision" : "750a2ad9b71cad4a824a9f2f31856a40c4abff4b"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "MadBoards"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "maddrivers",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/madmachineio/MadDrivers.git",
+          "name" : "MadDrivers"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "develop",
+            "revision" : "46c0fb01f19a252bfe176ef7442d6eb3a041c76a"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "MadDrivers"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swiftio",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/madmachineio/SwiftIO.git",
+          "name" : "SwiftIO"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "develop",
+            "revision" : "d8b7048c62e0c0cf3b66bbeea041b2d356ca1eef"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SwiftIO"
+      }
+    ]
+  },
+  "version" : 6
+}

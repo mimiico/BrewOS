@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:BrewOS}",
+            "name": "Debug BrewOS",
+            "program": "${workspaceFolder:BrewOS}/.build/debug/BrewOS",
+            "preLaunchTask": "swift: Build Debug BrewOS"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:BrewOS}",
+            "name": "Release BrewOS",
+            "program": "${workspaceFolder:BrewOS}/.build/release/BrewOS",
+            "preLaunchTask": "swift: Build Release BrewOS"
+        }
+    ]
+}

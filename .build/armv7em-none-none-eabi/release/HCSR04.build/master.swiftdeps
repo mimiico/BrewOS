@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "5e51cf9a52849462795d7b56cd929f60afc04d23b1bd5ae608dd8ff37ad5e085"
+build_start_time: [1739127647, 645639000]
+build_end_time: [1739127650, 45172000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/HCSR04/HCSR04.swift": [1739127509, 207984743]

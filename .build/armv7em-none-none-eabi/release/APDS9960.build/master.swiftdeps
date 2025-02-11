@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "002b13b58b1412f77d5a054abdcb605e56f9042042acbd17ec62177b4abc9afc"
+build_start_time: [1739127649, 578004000]
+build_end_time: [1739127652, 825337000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/APDS9960/APDS9960.swift": [1739127509, 205243042]

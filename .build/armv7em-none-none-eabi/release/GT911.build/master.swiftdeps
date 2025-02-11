@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "bf2395a2604206ec68188dbdffcb2bd75ad8d3dda4b0c5df8343b2ae4c5a020a"
+build_start_time: [1739127647, 827801000]
+build_end_time: [1739127651, 156064000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/GT911/GT911.swift": [1739127509, 207407411]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/GT911/TouchInfo.swift": [1739127509, 207831618]

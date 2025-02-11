@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "d1be78fed523485ea14dbd27542514fd7f2ade91841a34c7f0718235826ca80f"
+build_start_time: [1739127644, 685059000]
+build_end_time: [1739127645, 223282000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadBoards/Sources/MadBoards/SwiftIOBoard.swift": [1739127509, 549919228]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadBoards/Sources/MadBoards/SwiftIOMicro.swift": [1739127509, 550063103]

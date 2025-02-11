@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
+options: "73ebb3738768be7b5b224bc0d85b7b726020ad3175700bc033ab3ca54d92afd1"
+build_start_time: [1739127637, 456052000]
+build_end_time: [1739127641, 557480000]
+inputs:
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MLX90393/MLX90393.swift": [1739127509, 210091195]
