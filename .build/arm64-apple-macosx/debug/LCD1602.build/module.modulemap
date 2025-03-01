@@ -1,0 +1,4 @@
+module LCD1602 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/LCD1602.build/LCD1602-Swift.h"
+    requires objc
+}

@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "bd430f66a5f315ab7c36bd0e044a6945a100706a2312bb5eb9f79fa198082fc8"
-build_start_time: [1739127645, 121673000]
-build_end_time: [1739127648, 186964000]
+build_start_time: [1740813863, 996000000]
+build_end_time: [1740813867, 337642000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MPU6050/MPU6050.swift": [1739127509, 210626985]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MPU6050/MPU6050.swift": [1740813844, 689453294]

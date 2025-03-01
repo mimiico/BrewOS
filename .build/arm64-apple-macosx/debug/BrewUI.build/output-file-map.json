@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/BrewUI.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/BrewUI/Sources/BrewUI/BrewUI.swift": {
+    "dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/BrewUI.build/BrewUI.d",
+    "object": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/BrewUI.build/BrewUI.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/BrewUI.build/BrewUI~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/BrewUI.build/BrewUI.swiftdeps"
+  }
+}

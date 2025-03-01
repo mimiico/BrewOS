@@ -1,0 +1,4 @@
+module DHTxx {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/DHTxx.build/DHTxx-Swift.h"
+    requires objc
+}

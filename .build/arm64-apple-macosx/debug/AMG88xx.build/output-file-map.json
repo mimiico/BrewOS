@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/AMG88xx.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/AMG88xx/AMG88xx.swift": {
+    "dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/AMG88xx.build/AMG88xx.d",
+    "object": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/AMG88xx.build/AMG88xx.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/AMG88xx.build/AMG88xx~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/AMG88xx.build/AMG88xx.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module VEML6040 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/VEML6040.build/VEML6040-Swift.h"
+    requires objc
+}

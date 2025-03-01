@@ -1,0 +1,4 @@
+module VEML7700 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/VEML7700.build/VEML7700-Swift.h"
+    requires objc
+}

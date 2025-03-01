@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/SGP30.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/SGP30/SGP30.swift": {
+    "dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/SGP30.build/SGP30.d",
+    "object": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/SGP30.build/SGP30.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/SGP30.build/SGP30~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/SGP30.build/SGP30.swiftdeps"
+  }
+}

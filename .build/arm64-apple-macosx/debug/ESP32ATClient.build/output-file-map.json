@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ESP32ATClient/ESP32ATClient.swift": {
+    "dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/ESP32ATClient.d",
+    "object": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/ESP32ATClient.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/ESP32ATClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/ESP32ATClient.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ESP32ATClient/ESP32Utiles.swift": {
+    "dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/ESP32Utiles.d",
+    "object": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/ESP32Utiles.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/ESP32Utiles~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/ESP32Utiles.swiftdeps"
+  }
+}

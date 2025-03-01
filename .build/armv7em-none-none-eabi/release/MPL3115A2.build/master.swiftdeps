@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "b407c42bca05b0ceb01801c9eca129fe82ccd8886f673d82f1784e92b04c3ef9"
-build_start_time: [1739127645, 505184000]
-build_end_time: [1739127651, 803019000]
+build_start_time: [1740813864, 95679000]
+build_end_time: [1740813867, 959131000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MPL3115A2/MPL3115A2.swift": [1739127509, 210232361]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MPL3115A2/MPL3115A2.swift": [1740813844, 688893583]

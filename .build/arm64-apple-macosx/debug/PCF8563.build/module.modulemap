@@ -1,0 +1,4 @@
+module PCF8563 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/PCF8563.build/PCF8563-Swift.h"
+    requires objc
+}

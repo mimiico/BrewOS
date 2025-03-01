@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/VEML6040.build/master.swiftdeps"
+  },
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/VEML6040/VEML6040.swift": {
+    "dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/VEML6040.build/VEML6040.d",
+    "object": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/VEML6040.build/VEML6040.swift.o",
+    "swiftmodule": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/VEML6040.build/VEML6040~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/VEML6040.build/VEML6040.swiftdeps"
+  }
+}

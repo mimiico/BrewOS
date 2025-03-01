@@ -1,0 +1,4 @@
+module MLX90393 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/MLX90393.build/MLX90393-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module DS3231 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/DS3231.build/DS3231-Swift.h"
+    requires objc
+}

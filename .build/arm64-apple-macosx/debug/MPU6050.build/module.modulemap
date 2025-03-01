@@ -1,0 +1,4 @@
+module MPU6050 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/MPU6050.build/MPU6050-Swift.h"
+    requires objc
+}

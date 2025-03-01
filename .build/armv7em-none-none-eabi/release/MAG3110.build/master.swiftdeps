@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "9247db7e9b7a05668ae84e01a6618800a41f1b85df4b46f3e132883c291b7ce7"
-build_start_time: [1739127645, 575154000]
-build_end_time: [1739127649, 343476000]
+build_start_time: [1740813866, 540766000]
+build_end_time: [1740813869, 976514000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MAG3110/MAG3110.swift": [1739127509, 209441364]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/MAG3110/MAG3110.swift": [1740813844, 688094370]

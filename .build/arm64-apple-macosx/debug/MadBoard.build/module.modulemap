@@ -1,0 +1,4 @@
+module MadBoard {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/MadBoard.build/MadBoard-Swift.h"
+    requires objc
+}

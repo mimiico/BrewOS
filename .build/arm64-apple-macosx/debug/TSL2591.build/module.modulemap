@@ -1,0 +1,4 @@
+module TSL2591 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/TSL2591.build/TSL2591-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module MPR121 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/MPR121.build/MPR121-Swift.h"
+    requires objc
+}

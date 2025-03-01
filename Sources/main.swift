@@ -15,21 +15,21 @@ import BrewUI
 
 struct ContentView: BrewView {
     let body: Group
+    // let font = Font(path: "/lfs/Resources/Fonts/Graduate-Regular.ttf")
     init() {
-        // let font = Font(path: "/lfs/Resources/Fonts/Graduate-Regular.ttf")
         body = Group {
-            Button(frame: Frame(x: 20, y: 20, width: 200, height: 30)) {
+            Button(text: "Option A", frame: Frame(x: 20, y: 20, width: 200, height: 30)) {
                 // Action for Button 1.
             }
-            Button(frame: Frame(x: 20, y: 70, width: 200, height: 30)) {
+            Button(text: "Option B", frame: Frame(x: 20, y: 70, width: 200, height: 30)) {
                 // Action for Button 2.
             }
-            Button(frame: Frame(x: 20, y: 120, width: 200, height: 30),
+            Button(text: "Option C", frame: Frame(x: 20, y: 120, width: 200, height: 30),
                    foregroundColor: Color.blue.rawValue) {
                 // Action for Button 3.
             }
 
-            // Text("Hello, world!", frame: Frame(x: 20, y: 170, width: 200, height: 30), font:font)
+            Text("Hello, world!", frame: Frame(x: 20, y: 170, width: 200, height: 30))
         }
     }
     

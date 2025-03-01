@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "5a64b83368e33ca1368d508c549b395ec6f14604fad69248ca67d378beb9b055"
-build_start_time: [1739127637, 469837000]
-build_end_time: [1739127640, 265126000]
+build_start_time: [1740813856, 724667000]
+build_end_time: [1740813859, 552258000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/IS31FL3731/IS31FL3731.swift": [1739127509, 208580449]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/IS31FL3731/IS31FL3731.swift": [1740813844, 686971489]

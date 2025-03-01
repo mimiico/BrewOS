@@ -1,0 +1,4 @@
+module GT911 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/GT911.build/GT911-Swift.h"
+    requires objc
+}

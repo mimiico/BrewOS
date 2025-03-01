@@ -1,8 +1,8 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "35b0d601d55aaa6982e4ff4758bba76c184568f5577043dba62213f0ec7eeba2"
-build_start_time: [1739127641, 49774000]
-build_end_time: [1739127644, 861770000]
+build_start_time: [1740813860, 565406000]
+build_end_time: [1740813863, 847775000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/TMP102/Configuration.swift": [1739127509, 212150648]
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/TMP102/Enums.swift": [1739127509, 212216023]
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/TMP102/TMP102.swift": [1739127509, 212404272]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/TMP102/Configuration.swift": [1740813844, 691030095]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/TMP102/Enums.swift": [1740813844, 691097678]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/TMP102/TMP102.swift": [1740813844, 691291096]

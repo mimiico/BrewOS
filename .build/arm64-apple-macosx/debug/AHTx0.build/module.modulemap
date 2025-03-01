@@ -1,0 +1,4 @@
+module AHTx0 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/AHTx0.build/AHTx0-Swift.h"
+    requires objc
+}

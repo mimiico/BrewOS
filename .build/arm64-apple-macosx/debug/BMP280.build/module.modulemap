@@ -1,0 +1,4 @@
+module BMP280 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/BMP280.build/BMP280-Swift.h"
+    requires objc
+}

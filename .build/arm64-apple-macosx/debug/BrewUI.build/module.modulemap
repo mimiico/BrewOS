@@ -1,0 +1,4 @@
+module BrewUI {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/BrewUI.build/BrewUI-Swift.h"
+    requires objc
+}

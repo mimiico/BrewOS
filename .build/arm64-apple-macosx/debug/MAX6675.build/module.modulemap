@@ -1,0 +1,4 @@
+module MAX6675 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/MAX6675.build/MAX6675-Swift.h"
+    requires objc
+}

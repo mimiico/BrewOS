@@ -1,0 +1,4 @@
+module MAG3110 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/MAG3110.build/MAG3110-Swift.h"
+    requires objc
+}

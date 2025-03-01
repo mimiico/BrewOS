@@ -1,0 +1,4 @@
+module MCP9808 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/MCP9808.build/MCP9808-Swift.h"
+    requires objc
+}

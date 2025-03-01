@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "b9a0e808f6c9ae45840b3bf35bcde5e9a7ae1347b55882deb7e402ab4ef91f43"
-build_start_time: [1739127637, 442191000]
-build_end_time: [1739127644, 256602000]
+build_start_time: [1740813867, 710151000]
+build_end_time: [1740813873, 622838000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/BME680/BME680.swift": [1739127509, 205750624]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/BME680/BME680.swift": [1740813844, 684500851]

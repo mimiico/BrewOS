@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "9e7817ac911783d4b60450a8fd26313bbd1757b3561d0daa7b224a84beed8ef7"
-build_start_time: [1739127642, 86192000]
-build_end_time: [1739127645, 944463000]
+build_start_time: [1740813860, 691433000]
+build_end_time: [1740813864, 174104000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ST7789/ST7789.swift": [1739127509, 211710816]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ST7789/ST7789.swift": [1740813844, 690577134]

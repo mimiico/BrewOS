@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "59525456dc98b5595fd57c1271c5af90a218dd9e61e6454a9284a1d9c4a5afa1"
-build_start_time: [1739127646, 222534000]
-build_end_time: [1739127649, 718140000]
+build_start_time: [1740813856, 733599000]
+build_end_time: [1740813860, 334885000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/LTR390/LTR390.swift": [1739127509, 209259864]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/LTR390/LTR390.swift": [1740813844, 687879703]

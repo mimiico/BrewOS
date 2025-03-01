@@ -1,0 +1,4 @@
+module HCSR04 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/HCSR04.build/HCSR04-Swift.h"
+    requires objc
+}

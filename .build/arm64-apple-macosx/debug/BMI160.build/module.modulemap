@@ -1,0 +1,4 @@
+module BMI160 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/BMI160.build/BMI160-Swift.h"
+    requires objc
+}

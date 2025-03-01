@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "8f484e7664b8d3f72f019e0caa4dbd50d8543eee925971c37f22509579833c1e"
-build_start_time: [1739127644, 428022000]
-build_end_time: [1739127647, 587234000]
+build_start_time: [1740813863, 65946000]
+build_end_time: [1740813866, 272677000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/SGP30/SGP30.swift": [1739127509, 211432900]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/SGP30/SGP30.swift": [1740813844, 690315716]

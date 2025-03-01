@@ -1,0 +1,4 @@
+module TMP102 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/TMP102.build/TMP102-Swift.h"
+    requires objc
+}

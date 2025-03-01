@@ -1,0 +1,4 @@
+module BME680 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/BME680.build/BME680-Swift.h"
+    requires objc
+}

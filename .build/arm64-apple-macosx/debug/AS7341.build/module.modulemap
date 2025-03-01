@@ -1,0 +1,4 @@
+module AS7341 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/AS7341.build/AS7341-Swift.h"
+    requires objc
+}

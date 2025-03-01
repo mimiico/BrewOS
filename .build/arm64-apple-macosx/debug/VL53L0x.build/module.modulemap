@@ -1,0 +1,4 @@
+module VL53L0x {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/VL53L0x.build/VL53L0x-Swift.h"
+    requires objc
+}

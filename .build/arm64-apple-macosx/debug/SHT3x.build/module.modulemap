@@ -1,0 +1,4 @@
+module SHT3x {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/SHT3x.build/SHT3x-Swift.h"
+    requires objc
+}

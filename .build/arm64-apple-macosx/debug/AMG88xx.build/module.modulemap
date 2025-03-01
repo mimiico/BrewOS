@@ -1,0 +1,4 @@
+module AMG88xx {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/AMG88xx.build/AMG88xx-Swift.h"
+    requires objc
+}

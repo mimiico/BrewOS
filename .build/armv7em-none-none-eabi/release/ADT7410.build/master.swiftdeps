@@ -1,8 +1,8 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "9e8645e22e9fc6aeecd749548e5bf20b7cca3bc9962df2eb0368048348a0a364"
-build_start_time: [1739127651, 362753000]
-build_end_time: [1739127654, 310484000]
+build_start_time: [1740813869, 977454000]
+build_end_time: [1740813872, 972182000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ADT7410/ADT7410.swift": [1739127509, 204394502]
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ADT7410/Configuration.swift": [1739127509, 204510502]
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ADT7410/Untilitis.swift": [1739127509, 204590419]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ADT7410/ADT7410.swift": [1740813844, 682991801]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ADT7410/Configuration.swift": [1740813844, 683112260]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ADT7410/Untilitis.swift": [1740813844, 683188635]

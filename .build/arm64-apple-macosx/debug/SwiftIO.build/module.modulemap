@@ -1,0 +1,4 @@
+module SwiftIO {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/SwiftIO.build/SwiftIO-Swift.h"
+    requires objc
+}

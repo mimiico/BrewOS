@@ -1,0 +1,4 @@
+module ST7789 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ST7789.build/ST7789-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module IS31FL3731 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/IS31FL3731.build/IS31FL3731-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module ADXL345 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ADXL345.build/ADXL345-Swift.h"
+    requires objc
+}

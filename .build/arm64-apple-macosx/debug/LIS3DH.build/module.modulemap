@@ -1,0 +1,4 @@
+module LIS3DH {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/LIS3DH.build/LIS3DH-Swift.h"
+    requires objc
+}

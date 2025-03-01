@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "529e54250ef66534aad743d3d4b3594b98a44bb22c8aeba47f03190bd833da13"
-build_start_time: [1739127644, 437909000]
-build_end_time: [1739127647, 346443000]
+build_start_time: [1740813863, 486937000]
+build_end_time: [1740813866, 584979000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/PCF8563/PCF8563.swift": [1739127509, 211242734]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/PCF8563/PCF8563.swift": [1740813844, 690097298]

@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "93396ed823eb679368a0d4702c43d6fc944367826d50f067974641a01c95895c"
-build_start_time: [1739127648, 680452000]
-build_end_time: [1739127651, 584864000]
+build_start_time: [1740813867, 935354000]
+build_end_time: [1740813870, 757088000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/BH1750/BH1750.swift": [1739127509, 205588416]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/BH1750/BH1750.swift": [1740813844, 684363017]

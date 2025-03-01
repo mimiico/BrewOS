@@ -1,0 +1,4 @@
+module MS5611 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/MS5611.build/MS5611-Swift.h"
+    requires objc
+}

@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "7d338fe960c54b633c8dc14f00dbaba0ccfb49c63e67981028d097a64b1e656c"
-build_start_time: [1739127648, 448883000]
-build_end_time: [1739127654, 551208000]
+build_start_time: [1740813856, 745659000]
+build_end_time: [1740813863, 593864000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ESP32ATClient/ESP32ATClient.swift": [1739127509, 206651413]
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ESP32ATClient/ESP32Utiles.swift": [1739127509, 206773579]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ESP32ATClient/ESP32ATClient.swift": [1740813844, 685515565]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/ESP32ATClient/ESP32Utiles.swift": [1740813844, 685705191]

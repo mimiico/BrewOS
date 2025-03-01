@@ -1,0 +1,4 @@
+module HTU21D {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/HTU21D.build/HTU21D-Swift.h"
+    requires objc
+}

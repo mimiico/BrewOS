@@ -1,0 +1,4 @@
+module ADT7410 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ADT7410.build/ADT7410-Swift.h"
+    requires objc
+}

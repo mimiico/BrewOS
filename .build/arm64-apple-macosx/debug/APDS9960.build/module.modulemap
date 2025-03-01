@@ -1,0 +1,4 @@
+module APDS9960 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/APDS9960.build/APDS9960-Swift.h"
+    requires objc
+}

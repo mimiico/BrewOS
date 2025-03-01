@@ -1,0 +1,4 @@
+module SGP30 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/SGP30.build/SGP30-Swift.h"
+    requires objc
+}

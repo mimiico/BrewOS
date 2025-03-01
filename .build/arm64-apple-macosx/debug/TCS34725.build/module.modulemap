@@ -1,0 +1,4 @@
+module TCS34725 {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/TCS34725.build/TCS34725-Swift.h"
+    requires objc
+}

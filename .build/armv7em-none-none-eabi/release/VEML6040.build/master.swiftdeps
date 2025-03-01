@@ -1,6 +1,6 @@
 version: "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)"
 options: "1e8d9f04699ae082ca1539db1f217166f8c59437e35dcdbfd4d4165804aa3780"
-build_start_time: [1739127640, 870421000]
-build_end_time: [1739127644, 180274000]
+build_start_time: [1740813860, 118745000]
+build_end_time: [1740813863, 222433000]
 inputs:
-  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/VEML6040/VEML6040.swift": [1739127509, 212701313]
+  "/Users/yuhaochen/Developer/BrewOS/.build/checkouts/MadDrivers/Sources/VEML6040/VEML6040.swift": [1740813844, 691636431]

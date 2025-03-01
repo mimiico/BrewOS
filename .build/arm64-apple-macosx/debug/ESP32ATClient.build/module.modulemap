@@ -1,0 +1,4 @@
+module ESP32ATClient {
+    header "/Users/yuhaochen/Developer/BrewOS/.build/arm64-apple-macosx/debug/ESP32ATClient.build/ESP32ATClient-Swift.h"
+    requires objc
+}
